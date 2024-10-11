@@ -22,7 +22,7 @@ global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'GlobalTech\n\nContact: 255620642421'
 
 //console view/theme
 global.themeemoji = '🪀'
